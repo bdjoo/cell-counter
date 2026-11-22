@@ -1,6 +1,6 @@
 /* Offline cache. Serves the saved copy first and refreshes it in the background,
    so a new version shows up the second time the app is opened. */
-const CACHE = 'cell-counter-v1';
+const CACHE = 'cell-counter-v2';
 const ASSETS = [
   './',
   './index.html',
